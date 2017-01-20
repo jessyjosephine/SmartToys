@@ -1,8 +1,6 @@
-# Pengumpulan
+# SmartToys
 
-ReactJS (React) adalah pustaka JavaScript untuk membuat antarmuka kelas atas yang hanya mengurusi semua hal yang berkaitan dengan tampilan dan logika di sekitarnya. Jika dilihat dari arsitektur pengimplementasian antarmuka pengguna, maka React dapat dikatakan sebagai komponen V (*view*) dalam MVC. 
-
-Pada pengumpulan ini, saya sudah menyelesaikan proyek yang saya buat. Berikut adalah hasil screenshot-nya.
+Proyek ini merupakan proyek Front-End dengan menggunakan framework ReactJS. ReactJS (React) adalah pustaka JavaScript untuk membuat antarmuka kelas atas yang hanya mengurusi semua hal yang berkaitan dengan tampilan dan logika di sekitarnya.
 
 ## Menu utama
 
